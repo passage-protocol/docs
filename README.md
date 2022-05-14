@@ -1,5 +1,7 @@
-# Docs
+---
+description: Welcome to Passage!
+---
 
-Documentation repository for Passage Protocol
+# 📖 Docs
 
-Gitbook documentation: https://docs.passage.xyz
+Take a look at our documentation!
