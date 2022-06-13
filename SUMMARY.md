@@ -5,6 +5,6 @@
   - [LoyaltyLedger](contracts/LoyaltyLedger.md)
   - [PassageRegistry](contracts/PassageRegistry.md)
   - [Passport](contracts/Passport.md)
-  - [Depolyed Contracts](contracts/DeployedContracts.md)
+  - [Deployed Contracts](contracts/DeployedContracts.md)
 - [📈 Subgraph](Subgraph/README.md)
   - [Subgraph Endpoints](Subgraph/SubgraphEndpoints.md)
