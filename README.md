@@ -1,7 +1,7 @@
 ---
-description: Welcome to Passage!
+description: Welcome to Passage fellow passenger! This is a live document that will be updated as we evolve.
 ---
 
 # 📖 Docs
 
-Take a look at our documentation!
+The crypto stack for the new membership economy.
