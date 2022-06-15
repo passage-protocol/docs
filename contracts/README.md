@@ -8,12 +8,12 @@ Passage Protocol memberships consist of 3 main contracts: `Passage Registry`, `P
 
 ## Passport
 
-Passports are ERC-721 token contracts that can be used to for your membership tokens.
+Passports are ERC-721 token contracts that can be used for your membership tokens.
 
 ## Loyalty Ledger
 
-Passports are ERC-1155 token contracts that can be used to for your membership tokens.
+Passports are ERC-1155 token contracts that can be used for your membership tokens.
 
 ## Registry
 
-The `Passage Registry` is the factory where `Passport`'s, and `Loyalty Ledger`'s can be created.
+The `Passage Registry` is the factory where `Passport`s, and `Loyalty Ledger`s can be created.
