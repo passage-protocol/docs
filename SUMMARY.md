@@ -12,6 +12,7 @@
     - [v1](contracts/Passport/v1.md)
   - [Deployed Contracts](contracts/DeployedContracts.md)
   - [Error Codes](contracts/ErrorCodes.md)
+  - [Security](contracts/Security.md)
 - [📈 Subgraph](subgraph/README.md)
   - [Subgraph Endpoints](subgraph/SubgraphEndpoints.md)
 - [📝 Examples](examples/README.md)
