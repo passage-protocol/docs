@@ -37,7 +37,7 @@ Addresses for all deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0 Logic Implementation | 0x07B9fBFc26f861e1BE78dC3EfB5F9C07777ab653 |
+| v0 Logic Implementation | 0xFb0BFc92f1d53b1F0FAf813f9a1138A031D1bF8D |
 | v1 Logic Implementation | 0x66c7CCEE970C08D775FA5a13917307F7be7e9f9C |
 
 ### Loyalty Ledger
