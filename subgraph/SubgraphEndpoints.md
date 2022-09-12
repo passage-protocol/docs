@@ -8,3 +8,4 @@
 | Rinkeby        | https://thegraph.com/hosted-service/subgraph/passage-protocol/passage-rinkeby        |
 | Mumbai         | https://thegraph.com/hosted-service/subgraph/passage-protocol/passage-mumbai         |
 | Kovan Optimism | https://thegraph.com/hosted-service/subgraph/passage-protocol/passage-kovan-optimism |
+| Goerli         | https://thegraph.com/hosted-service/subgraph/passage-protocol/passage-goerli         |
