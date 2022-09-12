@@ -133,3 +133,25 @@ Addresses for all deployed contracts
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
 | v0 Logic Implementation | 0x62D419110db6129B693182Fb478997e57f6E7e6c |
+
+## Ethereum Goerli
+
+### Registry
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| Registry Proxy          | 0x15B5C0a099989CFcAcA9327Ad8b2Ca347A104B7d |
+| v0 Logic Implementation | 0x2053765C2F15aBEfED1F65fdF10e5F567B5A90D0 |
+
+### Passport
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| v0 Logic Implementation | 0x30E8806Fae847CC3c1a7315A58f6b8a583868BfE |
+| v1 Logic Implementation | 0x18cbf1e7bE537762c1938ba739bE750Cf2AEf362 |
+
+### Loyalty Ledger
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| v0 Logic Implementation | 0x97b08343ec5c853dbaf8010e019A9a201DA45d3a |
