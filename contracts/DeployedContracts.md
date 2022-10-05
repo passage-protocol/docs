@@ -90,27 +90,27 @@ Addresses for all deployed contracts
 | ----------------------- | ------------------------------------------ |
 | v0 Logic Implementation | 0xFC2963C70d6047C801eF1b32c93114dB84d7d76c |
 
-## Optimism Kovan
+## Optimism Goerli
 
 ### Registry
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| Registry Proxy          | 0x28eE487908E950d51B19515f6AA3Cb4eab90fCEC |
-| v0 Logic Implementation | 0x25E9a434EcbD5C842c021d9f8B818BC261b62b58 |
+| Registry Proxy          | 0x51AA03B802E741230729C1702407B3FaB1A2dE5B |
+| v0 Logic Implementation | 0x1e332ab63C83E0cB29B9a63ECDE2Ec0A6c211130 |
 
 ### Passport
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0 Logic Implementation | 0xFf394A15dfd30f6b5aCF2479BCcc0A3E51D818E4 |
-| v1 Logic Implementation | 0xbf8BaA413f5e0554a5C7a9f37dB9ecC8e14EB1a9 |
+| v0 Logic Implementation | 0x335Cf716F0B86E17a0422CEc3F23D8D234Ba1567 |
+| v1 Logic Implementation | 0x66c7CCEE970C08D775FA5a13917307F7be7e9f9C |
 
 ### Loyalty Ledger
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0 Logic Implementation | 0x17BcDcabE7A853362977cfB49cE24d8cd1d1Cc94 |
+| v0 Logic Implementation | 0x3731dD7Ab278C6525d230F6ef98C90Da5FD6D2e8 |
 
 ## Mumbai
 

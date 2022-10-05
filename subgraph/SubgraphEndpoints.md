@@ -7,5 +7,5 @@
 | Polygon        | https://thegraph.com/hosted-service/subgraph/passage-protocol/passage-polygon        |
 | Rinkeby        | https://thegraph.com/hosted-service/subgraph/passage-protocol/passage-rinkeby        |
 | Mumbai         | https://thegraph.com/hosted-service/subgraph/passage-protocol/passage-mumbai         |
-| Kovan Optimism | https://thegraph.com/hosted-service/subgraph/passage-protocol/passage-kovan-optimism |
+| Goerli Optimism | https://thegraph.com/hosted-service/subgraph/passage-protocol/passage-goerli-optimism |
 | Goerli         | https://thegraph.com/hosted-service/subgraph/passage-protocol/passage-goerli         |
