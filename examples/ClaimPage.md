@@ -43,3 +43,7 @@ Sample construction of the merkle tree root & proofs can be found [here](https:/
 ### Frontend Integration
 
 Sample frontend integration can be found [here](https://github.com/passage-protocol/example-claim-page/blob/master/src/components/Claimlist.tsx)
+
+# Questions
+
+Question not answered? Need something that is not listed? Please [get in touch](mailto:hello@passage.xyz) with our team.
