@@ -26,17 +26,15 @@ Sample frontend integration can be found [here](https://github.com/passage-proto
 
 ### Configuration
 
-If you want a permissioned claim from a list of addresses (claimlist/allowlist), you must first configure the claimlist minting module's options. 
+If you want a permissioned claim from a list of addresses (claimlist/allowlist), you must ensure the respective ClaimList minting module is deployed & attached to the Passport.
 
 First, you need to generate a merkle tree root with your list of addresses. This operation can be done with the [Javascript library `merkletreejs`](https://github.com/miguelmota/merkletreejs). The hashing algorithm should be keccak256 and pair sorting should be enabled. The Leaf is abi encodePacked wallet address & maximum amount the wallet can claim.
 
-[`setClaimlistOptions`](../contracts/Passport/v1.md#setclaimlistoptions) can then be used to configure your desired mint price per token & merkle tree root. If a free mint is desired, a claim fee of `0` can be passed in.
+[`setClaimlistRoot`](../contracts/Passport/v2.md#setclaimlistoptions) can be used to set the current merkle tree root. 
 
-When you are ready to open up your minting, call [`setClaimlistClaimEnabled(true)`](../contracts/Passport/v1.md#setclaimlistclaimenabled) and anyone on your list will be able to claim their token.
+When claiming through the claimlist, [`claim`](../contracts/Passport/v2.md#claim) must be called with the proof, as well as ABI encoded data reflecting both the maximum amount of tokens a wallet can mint as recorded in the merkle tree, as well as the desired amount of tokens to claim. The proof can be constructed with the same [`merkletreejs`](https://github.com/miguelmota/merkletreejs) library.
 
-When claiming through the claimlist, [`claimClaimlist`](../contracts/Passport/v1.md#claimclaimlist) must be called with the proof, maximum amount of tokens a wallet can mint as recorded in the merkle tree, and desired amount of tokens to claim. The proof can be constructed with the same [`merkletreejs`](https://github.com/miguelmota/merkletreejs) library.
-
-If new wallet addresses needs to be added to the claim list, then the merkle tree root needs to be regenerated & [`setClaimlistRoot`](../contracts/Passport/v1.md#setclaimlistroot) called with the newly generated root.
+If new wallet addresses needs to be added to the claim list, then the merkle tree root needs to be regenerated & [`setClaimlistRoot`](../contracts/Passport/v2.md#setclaimlistroot) called with the newly generated root.
 
 Sample construction of the merkle tree root & proofs can be found [here](https://github.com/passage-protocol/example-claim-page/blob/master/src/utils/merkleTree.tsx)
 
