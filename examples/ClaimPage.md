@@ -4,7 +4,7 @@ description: Example on how to set up a claim page for your Passport NFTs
 
 # Options
 
-V2 Passports support various options for claiming - this example includes two: priced claim & permissioned claim from a list of addresses (claimlist/allowlist).
+V2 Passports support various options for claiming - this example includes two: open/priced claim & permissioned claim from a list of addresses (claimlist/allowlist).
 
 # Sample Code
 
