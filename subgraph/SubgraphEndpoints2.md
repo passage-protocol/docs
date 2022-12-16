@@ -1,4 +1,4 @@
-# Passage Subgraph Endpoints
+# Passage V2 Subgraph Endpoints
 
 | Network        | URL                                                                                  |
 | -------------- | ------------------------------------------------------------------------------------ |
