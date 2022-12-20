@@ -23,7 +23,14 @@ T15 - transfer enabled locked
 T16 - max < total supply
 T17 - max supply reached
 T18 - transfer disabled
-
+T19 - input array length mismatch
+T20 - does not own token
+T21 - already claimed in block
+T22 - invalid minting module
+T23 - invalid address
+T24 - invalid minter address
+T25 - minting module should be non-zero address
+T26 - failed to send ether
 ```
 
 ## Registry
@@ -35,4 +42,6 @@ R3 - no longer managed
 R4 - not upgrader role
 R5 - only +1 increment allowed
 R6 - version not found
+R7 - not valid passport implementation
+R8 - not valid loyalty ledger implementation
 ```
