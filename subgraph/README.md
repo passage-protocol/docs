@@ -8,4 +8,4 @@ Passage uses [subgraphs](https://thegraph.com/docs/en/about/introduction/#what-t
 
 ## Networks
 
-Each network has it's own unique subgraph [endpoint](SubgraphEndpoints.md). Every Passport or Loyalty Ledger contract that is created from the Passage Registry is automatically indexed by the subgraph.
+Each network has it's own unique subgraph [endpoint](SubgraphEndpoints2.md). Every Passport or Loyalty Ledger contract that is created from the Passage Registry is automatically indexed by the subgraph.
