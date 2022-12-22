@@ -14,6 +14,6 @@
   - [Error Codes](contracts/ErrorCodes.md)
   - [Security](contracts/Security.md)
 - [📈 Subgraph](subgraph/README.md)
-  - [Subgraph Endpoints](subgraph/SubgraphEndpoints.md)
+  - [Subgraph Endpoints](subgraph/SubgraphEndpoints2.md)
 - [📝 Examples](examples/README.md)
   - [Claim Page](examples/ClaimPage.md)
