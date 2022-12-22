@@ -15,5 +15,6 @@
   - [Security](contracts/Security.md)
 - [📈 Subgraph](subgraph/README.md)
   - [Subgraph Endpoints](subgraph/SubgraphEndpoints.md)
+  - [Subgraph Queries](subgraph/SubgraphQueries.md)
 - [📝 Examples](examples/README.md)
   - [Claim Page](examples/ClaimPage.md)
