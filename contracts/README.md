@@ -17,3 +17,7 @@ Passports are ERC-1155 token contracts that can be used for your membership toke
 ## Registry
 
 The `Passage Registry` is the factory where `Passports`, and `Loyalty Ledgers` can be created.
+
+## Modules
+
+Documentation surrounding our modules can be found [here](./Modules/).
