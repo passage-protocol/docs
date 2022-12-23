@@ -16,7 +16,7 @@ A simple example frontend claim page repository can be found [here](https://gith
 
 If you want an open claim (anyone can mint a token), a Passport must be deployed with the supporting minting module attached & configured. [`setMintingModule`](../contracts/Passport/v2.md#setMintingModule) can be used to set minting modules. For module specific configuration, see [`Minting Modules`](../contracts/Modules/Minting/README.md).
 
-When you are ready to open up your minting, call [`setIsActive(true)`](#setIsActive) on the respective minting modules.
+When you are ready to open up your minting, call [`setIsActive(true)`](../contracts/Modules/Minting/BaseMintModule.md#setIsActive) on the respective minting modules.
 
 ### Frontend Integration
 
