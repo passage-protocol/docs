@@ -4,6 +4,7 @@
 - [🪄 Smart Contracts](contracts/README.md)
   - [Loyalty Ledger](contracts/LoyaltyLedger/README.md)
     - [v0](contracts/LoyaltyLedger/v0.md)
+  - [Modules](contracts/Modules/README.md)
   - [Registry](contracts/Registry/README.md)
     - [v0](contracts/Registry/v0.md)
   - [Passport](contracts/Passport/README.md)
