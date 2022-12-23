@@ -1,6 +1,6 @@
 # BeforeTransfer Modules
 
-| contract                                                            | Description                                |
+| contract                                                      | Description                                |
 | ------------------------------------------------------------- | ------------------------------------------ |
 | [NonTransferable721](NonTransferable721Module.md)             | Disable transfers for 721s                 |
 | [NonTransferable1155](NonTransferable1155Module.md)           | Disable transfers for 1155s                |
