@@ -34,6 +34,22 @@ Addresses for all deployed contracts
 | v0 Logic Implementation | 0xa9385A267285d2823a0b5fe535Dd312b29ABAC4A |
 | v1 Logic Implementation | 0xeC23611138230FD7E9fA2e76650bE3eDc3f12A7E |
 
+### Minting Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| PricedMint | 0xb85E1383108EC0c5fFce609F2b813ea16321354d |
+| MintsPerAddress | 0xB32600C6A0EAb7a581A184dC6Ce1f6C693CA9870 |
+| ClaimList | 0xD2BF6A68F6Cc6bf42B071317f162124b002025E5 |
+
+### BeforeTransfers Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| OpenSeaCreatorFeeFilter721 | 0xCE9f2F21EE100CB93C059B86cbea9B50fA3885C7 |
+| NonTransferrable721 | 0xc152D4E3BFdb3f80d618d0C973F39401C6903b02 |
+| NonTransferrable1155 | 0x022627edF987AbA710A09e0b2B898C7Cf8737c95 |
+
 ## Optimism
 
 ### Factory
@@ -65,6 +81,22 @@ Addresses for all deployed contracts
 | ----------------------- | ------------------------------------------ |
 | v0 Logic Implementation | 0x28cab2C929099F6131AE1F20e1DAd4599179114F |
 | v1 Logic Implementation | 0xDA2005e7e242bcb3E0bf8a00272d3761B8544030 |
+
+### Minting Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| PricedMint | 0x4bFA830AeD1fb2b1ca4A7B8e92B995cCb2A92A4e |
+| MintsPerAddress | 0x94e08D574bdb6f5E3c023990949b349263898baf |
+| ClaimList | 0x93549B66b68cD91805f8Ce62711144a1bcb0702A |
+
+### BeforeTransfers Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| OpenSeaCreatorFeeFilter721 |  |
+| NonTransferrable721 | 0x13c72cf16D087711620a6C69Fc0beD0Ad868D8D9 |
+| NonTransferrable1155 | 0xBa4d784B43712711A4002BA79eD3bFA3EE5471B9 |
 
 ## Polygon
 
@@ -98,6 +130,22 @@ Addresses for all deployed contracts
 | v0 Logic Implementation | 0x7C122443D12330631827fcA8A1AF901b2FDFc979 |
 | v1 Logic Implementation | 0x2EdeC19BD81C7CB2995d2E8E5d3Ea20B9842bA5D |
 
+### Minting Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| PricedMint | 0x520387A2AeC6D72D83e6Bd8230A63b56092964a2 |
+| MintsPerAddress | 0xCB1341443701977e6d0Fb5e0aA5B32c4390e88c7 |
+| ClaimList | 0xaA2751A8FbE419bE69d9965EF84b5E9D77135a7C |
+
+### BeforeTransfers Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| OpenSeaCreatorFeeFilter721 |  |
+| NonTransferrable721 | 0x48E39cBB86c121b323860e229F818090915FC9e3 |
+| NonTransferrable1155 | 0xAeaDd670a3a7409DC44b45b4ab9Ceb5dF977efb7 |
+
 ## Optimism Goerli
 
 ### Factory
@@ -129,6 +177,22 @@ Addresses for all deployed contracts
 | ----------------------- | ------------------------------------------ |
 | v0 Logic Implementation | 0x3731dD7Ab278C6525d230F6ef98C90Da5FD6D2e8 |
 | v1 Logic Implementation | 0x3ADc9BcA50d354A9e81BDC9fCF4365E361B868d8 |
+
+### Minting Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| PricedMint | 0xd18F070D077A4B7D12b9EAA7867bE613E2C47176 |
+| MintsPerAddress | 0x59d1e1C6A087be10bAA3761784fA75E7525d2809 |
+| ClaimList | 0xC30CF6A628C1c6c1c09FCa2A655A2557abF7EEC6 |
+
+### BeforeTransfers Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| OpenSeaCreatorFeeFilter721 |  |
+| NonTransferrable721 | 0x9A07261f131af1de2AE8325D21639ccc4677F762 |
+| NonTransferrable1155 | 0x2f568431D7AfD82d7837288740b9ea77fB89a26b |
 
 ## Mumbai
 
@@ -162,6 +226,22 @@ Addresses for all deployed contracts
 | v0 Logic Implementation | 0x62D419110db6129B693182Fb478997e57f6E7e6c |
 | v1 Logic Implementation | 0x93706EBB0d8e8F6bdAf55F7D0B9D2e80f2c951Cb |
 
+### Minting Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| PricedMint | 0xfDA8c94d40696Ea421e3d721E01E5CF6f9c75197 |
+| MintsPerAddress | 0x9c268Bbf38A648c761abDfbD7Ae1b5E4dBE71401 |
+| ClaimList | 0x41A9c993DC2f6c9E461d86Eb533713A3a325f9c4 |
+
+### BeforeTransfers Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| OpenSeaCreatorFeeFilter721 |  |
+| NonTransferrable721 | 0xD21C13B0c096FC8585f9fA1836B891c6b753EdcA |
+| NonTransferrable1155 | 0x1910952822fd8E7D0e2b458A789Ec339eEfFBEC8 |
+
 ## Ethereum Goerli
 
 ### Factory
@@ -193,3 +273,19 @@ Addresses for all deployed contracts
 | ----------------------- | ------------------------------------------ |
 | v0 Logic Implementation | 0x97b08343ec5c853dbaf8010e019A9a201DA45d3a |
 | v1 Logic Implementation | 0x2A24101BC06F49f44A98F362A34817CC3612B8B2 |
+
+### Minting Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| PricedMint | 0xEeBB44C793a0B3Cf711ff9Dc1Df59691355E5287 |
+| MintsPerAddress | 0x51F5CFd72d9F31A3de23Ba690A8d05c45eE3e16F |
+| ClaimList | 0x62926E42174F04821F45789e1a773241dA0bb443 |
+
+### BeforeTransfers Modules
+
+| contract                | Address                                    |
+| ----------------------- | ------------------------------------------ |
+| OpenSeaCreatorFeeFilter721 |  |
+| NonTransferrable721 | 0x3888b36ABEa15d4CE3b18338F97c5c92CA140816 |
+| NonTransferrable1155 | 0x26217c11ef116E616D167b15681A1C3dAb08359C |
