@@ -1,5 +1,7 @@
 # Modules
 
-[Here](./BeforeTransfers/) are the docs pertaining to Passage Protocol's BeforeTransfer modules.
+## BeforeTransfers Modules
+[These modules](./BeforeTransfers/) modules handle logic surrounding transferability, such as disabling transfers. 
 
-[Here](./Minting/) are the docs surrounding Passage Protocol's Minting modules.
+## Minting Modules
+[These modules](./Minting/) modules handle logic surrounding minting, such as priced mints, or whitelisted/permissioned mints.
