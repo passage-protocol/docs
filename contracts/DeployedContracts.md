@@ -190,7 +190,7 @@ Addresses for all deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| OpenSeaCreatorFeeFilter721 |  |
+| OpenSeaCreatorFeeFilter721 | 0xceea763c0753aF6Ef8195FE6f309d6F8663DE4E8 |
 | NonTransferrable721 | 0x9A07261f131af1de2AE8325D21639ccc4677F762 |
 | NonTransferrable1155 | 0x2f568431D7AfD82d7837288740b9ea77fB89a26b |
 
@@ -238,7 +238,7 @@ Addresses for all deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| OpenSeaCreatorFeeFilter721 |  |
+| OpenSeaCreatorFeeFilter721 | 0xbf8BaA413f5e0554a5C7a9f37dB9ecC8e14EB1a9 |
 | NonTransferrable721 | 0xD21C13B0c096FC8585f9fA1836B891c6b753EdcA |
 | NonTransferrable1155 | 0x1910952822fd8E7D0e2b458A789Ec339eEfFBEC8 |
 
@@ -286,6 +286,6 @@ Addresses for all deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| OpenSeaCreatorFeeFilter721 |  |
+| OpenSeaCreatorFeeFilter721 | 0x16E5D59AB62ea0877F9C7189F745F49dc0a34F52 |
 | NonTransferrable721 | 0x3888b36ABEa15d4CE3b18338F97c5c92CA140816 |
 | NonTransferrable1155 | 0x26217c11ef116E616D167b15681A1C3dAb08359C |
