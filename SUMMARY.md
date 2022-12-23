@@ -12,7 +12,6 @@
       - [OpenSeaCreatorFeeFilter721](contracts/Modules/BeforeTransfers/OpenSeaCreatorFeeFilter721.md)
       - [OpenSeaCreatorFeeFilter1155](contracts/Modules/BeforeTransfers/OpenSeaCreatorFeeFilter1155.md)
     - [Minting](contracts/Modules/Minting/README.md)
-      - [BaseMintModule](contracts/Modules/Minting/BaseMintModule.md)
       - [PricedMint](contracts/Modules/Minting/PricedMint.md)
       - [ClaimList](contracts/Modules/Minting/ClaimList.md)
       - [MintsPerAddress](contracts/Modules/Minting/MintsPerAddress.md)
