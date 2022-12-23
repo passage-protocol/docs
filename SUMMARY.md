@@ -23,6 +23,8 @@
     - [v0](contracts/Passport/v0.md)
     - [v1](contracts/Passport/v1.md)
     - [v2](contracts/Passport/v2.md)
+  - [Factory](contracts/Factory/README.md)
+    - [v0](contracts/Factory/v0.md)
   - [Deployed Contracts](contracts/DeployedContracts.md)
   - [Error Codes](contracts/ErrorCodes.md)
   - [Security](contracts/Security.md)
