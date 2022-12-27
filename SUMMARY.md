@@ -29,7 +29,6 @@
     - [Registry](contracts/v2/Registry/README.md)
       - [v0](contracts/v2/Registry/v0.md)
     - [Passport](contracts/v2/Passport/README.md)
-      - [Changelog](contracts/v2/Passport/Changelog.md)
       - [v0](contracts/v2/Passport/v0.md)
     - [Factory](contracts/v2/Factory/README.md)
       - [v0](contracts/v2/Factory/v0.md)
