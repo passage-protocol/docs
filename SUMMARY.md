@@ -2,7 +2,7 @@
 
 - [📖 Docs](README.md)
 - [🪄 Smart Contracts](contracts/README.md)
-  - [v1]
+  - [v1](contracts/v1)
     - [Loyalty Ledger](contracts/v1/LoyaltyLedger/README.md)
       - [v0](contracts/v1/LoyaltyLedger/v0.md)
     - [Registry](contracts/v1/Registry/README.md)
@@ -11,7 +11,7 @@
       - [Changelog](contracts/v1/Passport/Changelog.md)
       - [v0](contracts/v1/Passport/v0.md)
       - [v1](contracts/v1/Passport/v1.md)
-  - [v2]
+  - [v2](contracts/v2)
     - [Loyalty Ledger](contracts/v2/LoyaltyLedger/README.md)
       - [v0](contracts/v2/LoyaltyLedger/v0.md)
     - [Modules](contracts/v2/Modules/README.md)
