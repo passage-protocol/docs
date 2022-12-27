@@ -56,47 +56,47 @@ Addresses for all V2 deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0                      | [0x2417E8b1f133726Aa6146cC9FA5B4b8a0A420e8E](https://goerli-optimism.etherscan.io/address/0x2417E8b1f133726Aa6146cC9FA5B4b8a0A420e8E) |
+| v0                      | [0x2417E8b1f133726Aa6146cC9FA5B4b8a0A420e8E](https://optimism.etherscan.io/address/0x2417E8b1f133726Aa6146cC9FA5B4b8a0A420e8E) |
 
 ### Registry
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| Registry Proxy v0       | [0xdDBb08C7e8FA272606Ab6Bcfd4f0AfBFB61739FE](https://goerli-optimism.etherscan.io/address/0xdDBb08C7e8FA272606Ab6Bcfd4f0AfBFB61739FE) |
-| Registry Proxy v1       | [0x54ec741e19DbE19776A15545AA90e739a9C0ff65](https://goerli-optimism.etherscan.io/address/0x54ec741e19DbE19776A15545AA90e739a9C0ff65) |
-| v0 Logic Implementation | [0x07B9fBFc26f861e1BE78dC3EfB5F9C07777ab653](https://goerli-optimism.etherscan.io/address/0x07B9fBFc26f861e1BE78dC3EfB5F9C07777ab653) |
-| v1 Logic Implementation | [0xA2C9546C2868cf3E5525E33457da4Abf74B15049](https://goerli-optimism.etherscan.io/address/0xA2C9546C2868cf3E5525E33457da4Abf74B15049) |
+| Registry Proxy v0       | [0xdDBb08C7e8FA272606Ab6Bcfd4f0AfBFB61739FE](https://optimism.etherscan.io/address/0xdDBb08C7e8FA272606Ab6Bcfd4f0AfBFB61739FE) |
+| Registry Proxy v1       | [0x54ec741e19DbE19776A15545AA90e739a9C0ff65](https://optimism.etherscan.io/address/0x54ec741e19DbE19776A15545AA90e739a9C0ff65) |
+| v0 Logic Implementation | [0x07B9fBFc26f861e1BE78dC3EfB5F9C07777ab653](https://optimism.etherscan.io/address/0x07B9fBFc26f861e1BE78dC3EfB5F9C07777ab653) |
+| v1 Logic Implementation | [0xA2C9546C2868cf3E5525E33457da4Abf74B15049](https://optimism.etherscan.io/address/0xA2C9546C2868cf3E5525E33457da4Abf74B15049) |
 
 ### Passport
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0 Logic Implementation | [0xFb0BFc92f1d53b1F0FAf813f9a1138A031D1bF8D](https://goerli-optimism.etherscan.io/address/0xFb0BFc92f1d53b1F0FAf813f9a1138A031D1bF8D) |
-| v1 Logic Implementation | [0x66c7CCEE970C08D775FA5a13917307F7be7e9f9C](https://goerli-optimism.etherscan.io/address/0x66c7CCEE970C08D775FA5a13917307F7be7e9f9C) |
-| v2 Logic Implementation | [0xc7851fc9b6A212d896B17D435d2656A8d9C38642](https://goerli-optimism.etherscan.io/address/0xc7851fc9b6A212d896B17D435d2656A8d9C38642) |
+| v0 Logic Implementation | [0xFb0BFc92f1d53b1F0FAf813f9a1138A031D1bF8D](https://optimism.etherscan.io/address/0xFb0BFc92f1d53b1F0FAf813f9a1138A031D1bF8D) |
+| v1 Logic Implementation | [0x66c7CCEE970C08D775FA5a13917307F7be7e9f9C](https://optimism.etherscan.io/address/0x66c7CCEE970C08D775FA5a13917307F7be7e9f9C) |
+| v2 Logic Implementation | [0xc7851fc9b6A212d896B17D435d2656A8d9C38642](https://optimism.etherscan.io/address/0xc7851fc9b6A212d896B17D435d2656A8d9C38642) |
 
 ### Loyalty Ledger
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0 Logic Implementation | [0x28cab2C929099F6131AE1F20e1DAd4599179114F](https://goerli-optimism.etherscan.io/address/0x28cab2C929099F6131AE1F20e1DAd4599179114F) |
-| v1 Logic Implementation | [0xDA2005e7e242bcb3E0bf8a00272d3761B8544030](https://goerli-optimism.etherscan.io/address/0xDA2005e7e242bcb3E0bf8a00272d3761B8544030) |
+| v0 Logic Implementation | [0x28cab2C929099F6131AE1F20e1DAd4599179114F](https://optimism.etherscan.io/address/0x28cab2C929099F6131AE1F20e1DAd4599179114F) |
+| v1 Logic Implementation | [0xDA2005e7e242bcb3E0bf8a00272d3761B8544030](https://optimism.etherscan.io/address/0xDA2005e7e242bcb3E0bf8a00272d3761B8544030) |
 
 ### Minting Modules
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| PricedMint | [0x4bFA830AeD1fb2b1ca4A7B8e92B995cCb2A92A4e](https://goerli-optimism.etherscan.io/address/0x4bFA830AeD1fb2b1ca4A7B8e92B995cCb2A92A4e) |
-| MintsPerAddress | [0x94e08D574bdb6f5E3c023990949b349263898baf](https://goerli-optimism.etherscan.io/address/0x94e08D574bdb6f5E3c023990949b349263898baf) |
-| ClaimList | [0x93549B66b68cD91805f8Ce62711144a1bcb0702A](https://goerli-optimism.etherscan.io/address/0x93549B66b68cD91805f8Ce62711144a1bcb0702A) |
+| PricedMint | [0x4bFA830AeD1fb2b1ca4A7B8e92B995cCb2A92A4e](https://optimism.etherscan.io/address/0x4bFA830AeD1fb2b1ca4A7B8e92B995cCb2A92A4e) |
+| MintsPerAddress | [0x94e08D574bdb6f5E3c023990949b349263898baf](https://optimism.etherscan.io/address/0x94e08D574bdb6f5E3c023990949b349263898baf) |
+| ClaimList | [0x93549B66b68cD91805f8Ce62711144a1bcb0702A](https://optimism.etherscan.io/address/0x93549B66b68cD91805f8Ce62711144a1bcb0702A) |
 
 ### BeforeTransfers Modules
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
 | OpenSeaCreatorFeeFilter721 |  |
-| NonTransferrable721 | [0x13c72cf16D087711620a6C69Fc0beD0Ad868D8D9](https://goerli-optimism.etherscan.io/address/0x13c72cf16D087711620a6C69Fc0beD0Ad868D8D9) |
-| NonTransferrable1155 | [0xBa4d784B43712711A4002BA79eD3bFA3EE5471B9](https://goerli-optimism.etherscan.io/address/0xBa4d784B43712711A4002BA79eD3bFA3EE5471B9) |
+| NonTransferrable721 | [0x13c72cf16D087711620a6C69Fc0beD0Ad868D8D9](https://optimism.etherscan.io/address/0x13c72cf16D087711620a6C69Fc0beD0Ad868D8D9) |
+| NonTransferrable1155 | [0xBa4d784B43712711A4002BA79eD3bFA3EE5471B9](https://optimism.etherscan.io/address/0xBa4d784B43712711A4002BA79eD3bFA3EE5471B9) |
 
 ## Polygon
 
