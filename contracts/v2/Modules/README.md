@@ -1,6 +1,6 @@
 # Modules
 
-In V2, we introduce a much more composable & robust framework using _modules_, which act almost as plugins for our Passports & Loyalty Ledgers - increasing flexibility and reducing coupling from core functionality.
+In V2, we introduce a more composable & robust framework leveraging _modules_, which act like plugins for our Passports & Loyalty Ledgers - increasing flexibility and reducing coupling from core functionality.
 
 There are currently three different types:
 
