@@ -180,42 +180,42 @@ Addresses for all V2 deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0                      | [0x4Ce8EaEE190b84e87548D795d76a147DeAB9986f](https://mumbai.polygonscan.com/address/) |
+| v0                      | [0x4Ce8EaEE190b84e87548D795d76a147DeAB9986f](https://mumbai.polygonscan.com/address/0x4Ce8EaEE190b84e87548D795d76a147DeAB9986f) |
 
 ### Registry
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| Registry Proxy v0       | [0x0B13b197aD51430B856C9C934EbDCb9fF88f6FE6](https://mumbai.polygonscan.com/address/) |
-| v0 Logic Implementation | [0x663A351D04479601B9b403cDBeDF168C9B2b81cc](https://mumbai.polygonscan.com/address/) |
+| Registry Proxy v0       | [0x0B13b197aD51430B856C9C934EbDCb9fF88f6FE6](https://mumbai.polygonscan.com/address/0x0B13b197aD51430B856C9C934EbDCb9fF88f6FE6) |
+| v0 Logic Implementation | [0x663A351D04479601B9b403cDBeDF168C9B2b81cc](https://mumbai.polygonscan.com/address/0x663A351D04479601B9b403cDBeDF168C9B2b81cc) |
 
 ### Passport
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0 Logic Implementation | [0xBA6971984ff33890170CccEd39861B24e82E6851](https://mumbai.polygonscan.com/address/) |
+| v0 Logic Implementation | [0xBA6971984ff33890170CccEd39861B24e82E6851](https://mumbai.polygonscan.com/address/0xBA6971984ff33890170CccEd39861B24e82E6851) |
 
 ### Loyalty Ledger
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0 Logic Implementation | [0x93706EBB0d8e8F6bdAf55F7D0B9D2e80f2c951Cb](https://mumbai.polygonscan.com/address/) |
+| v0 Logic Implementation | [0x93706EBB0d8e8F6bdAf55F7D0B9D2e80f2c951Cb](https://mumbai.polygonscan.com/address/0x93706EBB0d8e8F6bdAf55F7D0B9D2e80f2c951Cb) |
 
 ### Minting Modules
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| PricedMint | [0xfDA8c94d40696Ea421e3d721E01E5CF6f9c75197](https://mumbai.polygonscan.com/address/) |
-| MintsPerAddress | [0x9c268Bbf38A648c761abDfbD7Ae1b5E4dBE71401](https://mumbai.polygonscan.com/address/) |
-| ClaimList | [0x41A9c993DC2f6c9E461d86Eb533713A3a325f9c4](https://mumbai.polygonscan.com/address/) |
+| PricedMint | [0xfDA8c94d40696Ea421e3d721E01E5CF6f9c75197](https://mumbai.polygonscan.com/address/0xfDA8c94d40696Ea421e3d721E01E5CF6f9c75197) |
+| MintsPerAddress | [0x9c268Bbf38A648c761abDfbD7Ae1b5E4dBE71401](https://mumbai.polygonscan.com/address/0x9c268Bbf38A648c761abDfbD7Ae1b5E4dBE71401) |
+| ClaimList | [0x41A9c993DC2f6c9E461d86Eb533713A3a325f9c4](https://mumbai.polygonscan.com/address/0x41A9c993DC2f6c9E461d86Eb533713A3a325f9c4) |
 
 ### BeforeTransfers Modules
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| OpenSeaCreatorFeeFilter721 | [0xbf8BaA413f5e0554a5C7a9f37dB9ecC8e14EB1a9](https://mumbai.polygonscan.com/address/) |
-| NonTransferrable721 | [0xD21C13B0c096FC8585f9fA1836B891c6b753EdcA](https://mumbai.polygonscan.com/address/) |
-| NonTransferrable1155 | [0x1910952822fd8E7D0e2b458A789Ec339eEfFBEC8](https://mumbai.polygonscan.com/address/) |
+| OpenSeaCreatorFeeFilter721 | [0xbf8BaA413f5e0554a5C7a9f37dB9ecC8e14EB1a9](https://mumbai.polygonscan.com/address/0xbf8BaA413f5e0554a5C7a9f37dB9ecC8e14EB1a9) |
+| NonTransferrable721 | [0xD21C13B0c096FC8585f9fA1836B891c6b753EdcA](https://mumbai.polygonscan.com/address/0xD21C13B0c096FC8585f9fA1836B891c6b753EdcA) |
+| NonTransferrable1155 | [0x1910952822fd8E7D0e2b458A789Ec339eEfFBEC8](https://mumbai.polygonscan.com/address/0x1910952822fd8E7D0e2b458A789Ec339eEfFBEC8) |
 
 ## Ethereum Goerli
 
