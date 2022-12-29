@@ -20,4 +20,4 @@ The `Passage Registry` is the factory where `Passports`, and `Loyalty Ledgers` c
 
 ## Modules
 
-Documentation surrounding our modules can be found [here](./Modules/).
+Documentation surrounding our modules can be found [here](./v2/Modules/).
