@@ -29,7 +29,7 @@ There are currently three different types:
 | [`setMintingModule`](../LoyaltyLedger/v0.md#setTokenMintingModule) | Loyalty Ledger | set a Loyalty Token's minting module |
 
 ## Render Modules
-[Render modules](./Render/README.md) are responsible for URI rendering semantics, such as custom overrides or more bespoke URI aquisition.
+[Render modules](./Rendering/README.md) are responsible for URI rendering semantics, such as custom overrides or more bespoke URI aquisition.
 
 ### Configuration
 
