@@ -27,7 +27,7 @@ Addresses for all V2 deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0 Logic Implementation | [0xeC23611138230FD7E9fA2e76650bE3eDc3f12A7E](https://etherscan.io/address/0xeC23611138230FD7E9fA2e76650bE3eDc3f12A7E |
+| v0 Logic Implementation | [0xeC23611138230FD7E9fA2e76650bE3eDc3f12A7E](https://etherscan.io/address/0xeC23611138230FD7E9fA2e76650bE3eDc3f12A7E) |
 
 ### Minting Modules
 
