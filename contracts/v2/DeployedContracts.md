@@ -51,42 +51,42 @@ Addresses for all V2 deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0                      | [0x2417E8b1f133726Aa6146cC9FA5B4b8a0A420e8E](https://optimism.etherscan.io/address/0x2417E8b1f133726Aa6146cC9FA5B4b8a0A420e8E) |
+| v0                      | [0x2417E8b1f133726Aa6146cC9FA5B4b8a0A420e8E](https://optimistic.etherscan.io/address/0x2417E8b1f133726Aa6146cC9FA5B4b8a0A420e8E) |
 
 ### Registry
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| Registry Proxy v0       | [0x54ec741e19DbE19776A15545AA90e739a9C0ff65](https://optimism.etherscan.io/address/0x54ec741e19DbE19776A15545AA90e739a9C0ff65) |
-| v0 Logic Implementation | [0xA2C9546C2868cf3E5525E33457da4Abf74B15049](https://optimism.etherscan.io/address/0xA2C9546C2868cf3E5525E33457da4Abf74B15049) |
+| Registry Proxy v0       | [0x54ec741e19DbE19776A15545AA90e739a9C0ff65](https://optimistic.etherscan.io/address/0x54ec741e19DbE19776A15545AA90e739a9C0ff65) |
+| v0 Logic Implementation | [0xA2C9546C2868cf3E5525E33457da4Abf74B15049](https://optimistic.etherscan.io/address/0xA2C9546C2868cf3E5525E33457da4Abf74B15049) |
 
 ### Passport
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0 Logic Implementation | [0xc7851fc9b6A212d896B17D435d2656A8d9C38642](https://optimism.etherscan.io/address/0xc7851fc9b6A212d896B17D435d2656A8d9C38642) |
+| v0 Logic Implementation | [0xc7851fc9b6A212d896B17D435d2656A8d9C38642](https://optimistic.etherscan.io/address/0xc7851fc9b6A212d896B17D435d2656A8d9C38642) |
 
 ### Loyalty Ledger
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0 Logic Implementation | [0xDA2005e7e242bcb3E0bf8a00272d3761B8544030](https://optimism.etherscan.io/address/0xDA2005e7e242bcb3E0bf8a00272d3761B8544030) |
+| v0 Logic Implementation | [0xDA2005e7e242bcb3E0bf8a00272d3761B8544030](https://optimistic.etherscan.io/address/0xDA2005e7e242bcb3E0bf8a00272d3761B8544030) |
 
 ### Minting Modules
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| PricedMint | [0x4bFA830AeD1fb2b1ca4A7B8e92B995cCb2A92A4e](https://optimism.etherscan.io/address/0x4bFA830AeD1fb2b1ca4A7B8e92B995cCb2A92A4e) |
-| MintsPerAddress | [0x94e08D574bdb6f5E3c023990949b349263898baf](https://optimism.etherscan.io/address/0x94e08D574bdb6f5E3c023990949b349263898baf) |
-| ClaimList | [0x93549B66b68cD91805f8Ce62711144a1bcb0702A](https://optimism.etherscan.io/address/0x93549B66b68cD91805f8Ce62711144a1bcb0702A) |
+| PricedMint | [0x4bFA830AeD1fb2b1ca4A7B8e92B995cCb2A92A4e](https://optimistic.etherscan.io/address/0x4bFA830AeD1fb2b1ca4A7B8e92B995cCb2A92A4e) |
+| MintsPerAddress | [0x94e08D574bdb6f5E3c023990949b349263898baf](https://optimistic.etherscan.io/address/0x94e08D574bdb6f5E3c023990949b349263898baf) |
+| ClaimList | [0x93549B66b68cD91805f8Ce62711144a1bcb0702A](https://optimistic.etherscan.io/address/0x93549B66b68cD91805f8Ce62711144a1bcb0702A) |
 
 ### BeforeTransfers Modules
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
 | OpenSeaCreatorFeeFilter721 |  |
-| NonTransferrable721 | [0x13c72cf16D087711620a6C69Fc0beD0Ad868D8D9](https://optimism.etherscan.io/address/0x13c72cf16D087711620a6C69Fc0beD0Ad868D8D9) |
-| NonTransferrable1155 | [0xBa4d784B43712711A4002BA79eD3bFA3EE5471B9](https://optimism.etherscan.io/address/0xBa4d784B43712711A4002BA79eD3bFA3EE5471B9) |
+| NonTransferrable721 | [0x13c72cf16D087711620a6C69Fc0beD0Ad868D8D9](https://optimistic.etherscan.io/address/0x13c72cf16D087711620a6C69Fc0beD0Ad868D8D9) |
+| NonTransferrable1155 | [0xBa4d784B43712711A4002BA79eD3bFA3EE5471B9](https://optimistic.etherscan.io/address/0xBa4d784B43712711A4002BA79eD3bFA3EE5471B9) |
 
 ## Polygon
 
