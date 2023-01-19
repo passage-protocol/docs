@@ -13,3 +13,5 @@ Each network has it's own unique subgraph [endpoint](SubgraphEndpoints2.md). Eve
 ## Queries
 
 Example subgraph queries can be found [here](SubgraphQueries.md). 
+
+Currently, our mainnet subgraph is deployed on The Graph's network, therefore it requires an API_KEY to be used when querying to pay query fees.
