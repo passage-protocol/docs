@@ -8,7 +8,7 @@ Addresses for all V2 deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0                      | [0x394918C50e0Df1B20B41ce06B30fc42c520Cc313](https://etherscan.io/address/0x394918C50e0Df1B20B41ce06B30fc42c520Cc313) |
+| v0                      | [0xE5A6083408db1B60daC7DAf31622570470A292e6](https://etherscan.io/address/0xE5A6083408db1B60daC7DAf31622570470A292e6) |
 
 ### Registry
 
@@ -51,7 +51,7 @@ Addresses for all V2 deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0                      | [0x2417E8b1f133726Aa6146cC9FA5B4b8a0A420e8E](https://optimistic.etherscan.io/address/0x2417E8b1f133726Aa6146cC9FA5B4b8a0A420e8E) |
+| v0                      | [0x484C2358B4F1CF9cf3b9697eF753F17c2927A940](https://optimistic.etherscan.io/address/0x484C2358B4F1CF9cf3b9697eF753F17c2927A940) |
 
 ### Registry
 
@@ -94,7 +94,7 @@ Addresses for all V2 deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0                      | [0xd1112bCd06e85fBc042d27574a018cC049a9D25F](https://polygonscan.com/address/0xd1112bCd06e85fBc042d27574a018cC049a9D25F) |
+| v0                      | [0x66D530a556D503b8cbD3d37897e0e02FE935AAb2](https://polygonscan.com/address/0x66D530a556D503b8cbD3d37897e0e02FE935AAb2) |
 
 ### Registry
 
@@ -137,7 +137,7 @@ Addresses for all V2 deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0                      | [0x77Ba0F0C77162aA7C53E70baaD49FB576e19cCE9](https://goerli-optimism.etherscan.io/address/0x77Ba0F0C77162aA7C53E70baaD49FB576e19cCE9) |
+| v0                      | [0xF8929baeb625e5229bc6A1890c800b03C78c374E](https://goerli-optimism.etherscan.io/address/0xF8929baeb625e5229bc6A1890c800b03C78c374E) |
 
 ### Registry
 
@@ -180,7 +180,7 @@ Addresses for all V2 deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0                      | [0x4Ce8EaEE190b84e87548D795d76a147DeAB9986f](https://mumbai.polygonscan.com/address/0x4Ce8EaEE190b84e87548D795d76a147DeAB9986f) |
+| v0                      | [0xD90716e57566A5CAfD4F630EAaCbD683eF9c163A](https://mumbai.polygonscan.com/address/0xD90716e57566A5CAfD4F630EAaCbD683eF9c163A) |
 
 ### Registry
 
@@ -223,7 +223,7 @@ Addresses for all V2 deployed contracts
 
 | contract                | Address                                    |
 | ----------------------- | ------------------------------------------ |
-| v0                      | [0x86473b162977Df209a7218145a04C7e74F634ae7](https://goerli.etherscan.io/address/0x86473b162977Df209a7218145a04C7e74F634ae7) |
+| v0                      | [0x1B6519fdE6e0C114A7FCFa1D73a3Dd542d27347B](https://goerli.etherscan.io/address/0x1B6519fdE6e0C114A7FCFa1D73a3Dd542d27347B) |
 
 ### Registry
 
